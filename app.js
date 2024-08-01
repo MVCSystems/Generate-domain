@@ -14,15 +14,8 @@ for (let i = 0; i < pronoun.length; i++) {
     }
   }
 }
-
 // ejemplo:
-// thegreatjogger.com
-// thegreatracoon.com
-// ourgreatjogger.com
-// ourgreatracoon.com
-// thebigjogger.com
-// thebigracoon.com
-// ourbigjogger.com
-// ourbigracoon.com
-
+// thegreatjogger.com // thegreatracoon.com // ourgreatjogger.com
+// ourgreatracoon.com // thebigjogger.com // thebigracoon.com
+// ourbigjogger.com   // ourbigracoon.com
 console.log(domain);
